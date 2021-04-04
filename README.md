@@ -13,11 +13,11 @@ pip install textblob==0.15.3
 
 Install
 
-`pip install git+https://github.com/makuzminets/NLTK_Text_Preprocessing_Package/preprocess_tsm.git --upgrade --force-reinstall`
+`pip install git+https://github.com/makuzminets/NLTK_Text_Preprocessing_Package.git --upgrade --force-reinstall`
 
 Uninstall
 
-`pip uninstall preprocess_tsm`
+`pip uninstall NLTK_Text_Preprocessing_Package`
 
 #### How to use it for preprocessing
 You have to have installed spacy and python3 to make it work.
